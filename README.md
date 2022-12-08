@@ -12,7 +12,8 @@ _Todos los videojuegos que he desarrollado_
 
 _Las herramientas utilizadas han sido:_
 
-* [JAVA](https://docs.oracle.com/javase/7/docs/api/) - Uno de mis lenguajes favoritos
+* [Unity](https://docs.unity.com/) - Framework para el desarrollo visual
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - Lenguaje de programación
 
 ## Autores ✒️
 
