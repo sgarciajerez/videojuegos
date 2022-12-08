@@ -1,0 +1,140 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8330 (ID=0x9832)
+    Vendor:   ATI
+    VRAM:     2295 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8330 (ID=0x9832)
+    Vendor:   ATI
+    VRAM:     2295 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.129 seconds
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.132469 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2058 -> priority: 1 
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8330 (ID=0x9832)
+    Vendor:   ATI
+    VRAM:     2295 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.142 seconds
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Santi\Desktop\Las Aventuras de Yoni - Por Santiago García Guardia\Las Aventuras de Yoni_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.866415 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.102955 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.696256 ms (FindLiveObjects: 0.117638 ms CreateObjectMapping: 0.047192 ms MarkObjects: 0.517062 ms  DeleteObjects: 0.012311 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.984197 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.541684 ms (FindLiveObjects: 0.092332 ms CreateObjectMapping: 0.045140 ms MarkObjects: 0.389848 ms  DeleteObjects: 0.010943 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.154499 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 0.568358 ms (FindLiveObjects: 0.099856 ms CreateObjectMapping: 0.046508 ms MarkObjects: 0.408315 ms  DeleteObjects: 0.010943 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.716702 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 2.408855 ms (FindLiveObjects: 0.127213 ms CreateObjectMapping: 0.049928 ms MarkObjects: 0.502699 ms  DeleteObjects: 1.726962 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.008675 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 545.
+Total: 0.758495 ms (FindLiveObjects: 0.123794 ms CreateObjectMapping: 0.049244 ms MarkObjects: 0.571778 ms  DeleteObjects: 0.011627 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.051908 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 726.
+Total: 10.629879 ms (FindLiveObjects: 0.125845 ms CreateObjectMapping: 0.069078 ms MarkObjects: 0.586825 ms  DeleteObjects: 9.846762 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.228365 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 472.
+Total: 7.056264 ms (FindLiveObjects: 0.095068 ms CreateObjectMapping: 0.048560 ms MarkObjects: 0.385061 ms  DeleteObjects: 6.525523 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 187c -> priority: 1 
